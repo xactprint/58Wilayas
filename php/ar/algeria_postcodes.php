@@ -2062,8 +2062,8 @@ return [
     ],
     206 => [
         "post_code" => "03048",
-        "post_name" => "الأغواط - "DCA"",
-        "post_address" => "الأغواط - "DCA"",
+        "post_name" => "الأغواط - \"DCA\"",
+        "post_address" => "الأغواط - \"DCA\"",
         "commune_id" => 79,
         "commune_name" => "الأغواط",
         "daira_name" => "الأغواط",
@@ -2673,7 +2673,7 @@ return [
     267 => [
         "post_code" => "04055",
         "post_name" => "أم البواقي - القوات البرية",
-        "post_address" => "ثكنة "CIST 555"",
+        "post_address" => "ثكنة \"CIST 555\"",
         "commune_id" => 112,
         "commune_name" => "أم البواقي",
         "daira_name" => "أم البواقي",
@@ -10713,7 +10713,7 @@ return [
     1071 => [
         "post_code" => "13062",
         "post_name" => "بوحناك",
-        "post_address" => "عمارة "I" رقم 01، 500 مسكن",
+        "post_address" => "عمارة \"I\" رقم 01، 500 مسكن",
         "commune_id" => 424,
         "commune_name" => "منصورة",
         "daira_name" => "منصورة",
@@ -14873,7 +14873,7 @@ return [
     1487 => [
         "post_code" => "16106",
         "post_name" => "وادي الرمان",
-        "post_address" => "الحصة العقارية "ي"",
+        "post_address" => "الحصة العقارية \"ي\"",
         "commune_id" => 579,
         "commune_name" => "العاشور",
         "daira_name" => "الدرارية",
@@ -23123,7 +23123,7 @@ return [
     2312 => [
         "post_code" => "25025",
         "post_name" => "قسنطينة - عدالة عمار",
-        "post_address" => "عمارة رقم 27، حي الصندوق الوطني للتوفير والاحتياط "CNEP"",
+        "post_address" => "عمارة رقم 27، حي الصندوق الوطني للتوفير والاحتياط \"CNEP\"",
         "commune_id" => 891,
         "commune_name" => "قسنطينة",
         "daira_name" => "قسنطينة",
@@ -23533,7 +23533,7 @@ return [
     2353 => [
         "post_code" => "",
         "post_name" => "قسنطينة - لبيض محمد",
-        "post_address" => "حي السكنات ذات الإيجار المتوسط "HLM"، سيدي مبروك السفلى",
+        "post_address" => "حي السكنات ذات الإيجار المتوسط \"HLM\"، سيدي مبروك السفلى",
         "commune_id" => 891,
         "commune_name" => "قسنطينة",
         "daira_name" => "قسنطينة",
@@ -27533,7 +27533,7 @@ return [
     2753 => [
         "post_code" => "31012",
         "post_name" => "وهران - أسامة",
-        "post_address" => "شارع بيقريفي بولونجي "Rue Pigrify Boulanger"",
+        "post_address" => "شارع بيقريفي بولونجي \"Rue Pigrify Boulanger\"",
         "commune_id" => 1131,
         "commune_name" => "وهران",
         "daira_name" => "وهران",
@@ -27543,7 +27543,7 @@ return [
     2754 => [
         "post_code" => "31013",
         "post_name" => "وهران - صديقية",
-        "post_address" => "وهران - 25 نهج الكحول "Alcool"",
+        "post_address" => "وهران - 25 نهج الكحول \"Alcool\"",
         "commune_id" => 1131,
         "commune_name" => "وهران",
         "daira_name" => "وهران",
