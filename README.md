@@ -1,5 +1,9 @@
 # algeria-cities
 
+ 🌐 the page is slow as we get all the openstreetmaps ids from github then we send request to get geometries from open streetmaps api, then we plot the polygons. so please be patient 🙏
+ [Preview Realtime Cities Geometries](https://algeriacities.oecole.com/).
+
+
 This repository contains the list of all the administrative provinces and cities in Algeria.
 
 The data is up-to-date according to the official source of the Algerian Interior Ministry, including the 10 new Wilayas.
