@@ -569,7 +569,7 @@
         "wilaya_code": "03",
         "wilaya_name_ascii": "Laghouat",
         "wilaya_name": "الأغواط",
-        "osm_id": -1
+        "osm_id": 6546014
     },
     {
         "id": 73,
@@ -580,7 +580,7 @@
         "wilaya_code": "03",
         "wilaya_name_ascii": "Laghouat",
         "wilaya_name": "الأغواط",
-        "osm_id": -1
+        "osm_id": 6546020
     },
     {
         "id": 69,
@@ -591,7 +591,7 @@
         "wilaya_code": "03",
         "wilaya_name_ascii": "Laghouat",
         "wilaya_name": "الأغواط",
-        "osm_id": -1
+        "osm_id": 6546016
     },
     {
         "id": 66,
@@ -602,7 +602,7 @@
         "wilaya_code": "03",
         "wilaya_name_ascii": "Laghouat",
         "wilaya_name": "الأغواط",
-        "osm_id": -1
+        "osm_id": 6546013
     },
     {
         "id": 85,
@@ -613,7 +613,7 @@
         "wilaya_code": "03",
         "wilaya_name_ascii": "Laghouat",
         "wilaya_name": "الأغواط",
-        "osm_id": -1
+        "osm_id": 6546032
     },
     {
         "id": 74,
@@ -624,7 +624,7 @@
         "wilaya_code": "03",
         "wilaya_name_ascii": "Laghouat",
         "wilaya_name": "الأغواط",
-        "osm_id": -1
+        "osm_id": 6546021
     },
     {
         "id": 87,
@@ -635,7 +635,7 @@
         "wilaya_code": "03",
         "wilaya_name_ascii": "Laghouat",
         "wilaya_name": "الأغواط",
-        "osm_id": -1
+        "osm_id": 6546034
     },
     {
         "id": 71,
@@ -646,7 +646,7 @@
         "wilaya_code": "03",
         "wilaya_name_ascii": "Laghouat",
         "wilaya_name": "الأغواط",
-        "osm_id": -1
+        "osm_id": 6546018
     },
     {
         "id": 86,
@@ -657,7 +657,7 @@
         "wilaya_code": "03",
         "wilaya_name_ascii": "Laghouat",
         "wilaya_name": "الأغواط",
-        "osm_id": -1
+        "osm_id": 6546033
     },
     {
         "id": 82,
@@ -668,7 +668,7 @@
         "wilaya_code": "03",
         "wilaya_name_ascii": "Laghouat",
         "wilaya_name": "الأغواط",
-        "osm_id": -1
+        "osm_id": 6546029
     },
     {
         "id": 83,
@@ -679,7 +679,7 @@
         "wilaya_code": "03",
         "wilaya_name_ascii": "Laghouat",
         "wilaya_name": "الأغواط",
-        "osm_id": -1
+        "osm_id": 6546030
     },
     {
         "id": 80,
@@ -690,7 +690,7 @@
         "wilaya_code": "03",
         "wilaya_name_ascii": "Laghouat",
         "wilaya_name": "الأغواط",
-        "osm_id": -1
+        "osm_id": 6546028
     },
     {
         "id": 79,
@@ -701,7 +701,7 @@
         "wilaya_code": "03",
         "wilaya_name_ascii": "Laghouat",
         "wilaya_name": "الأغواط",
-        "osm_id": -1
+        "osm_id": 6546026
     },
     {
         "id": 81,
@@ -712,7 +712,7 @@
         "wilaya_code": "03",
         "wilaya_name_ascii": "Laghouat",
         "wilaya_name": "الأغواط",
-        "osm_id": -1
+        "osm_id": 6546027
     },
     {
         "id": 78,
@@ -723,7 +723,7 @@
         "wilaya_code": "03",
         "wilaya_name_ascii": "Laghouat",
         "wilaya_name": "الأغواط",
-        "osm_id": -1
+        "osm_id": 6810403
     },
     {
         "id": 70,
@@ -734,7 +734,7 @@
         "wilaya_code": "03",
         "wilaya_name_ascii": "Laghouat",
         "wilaya_name": "الأغواط",
-        "osm_id": -1
+        "osm_id": 6546017
     },
     {
         "id": 84,
@@ -745,7 +745,7 @@
         "wilaya_code": "03",
         "wilaya_name_ascii": "Laghouat",
         "wilaya_name": "الأغواط",
-        "osm_id": -1
+        "osm_id": 6546031
     },
     {
         "id": 75,
@@ -756,7 +756,7 @@
         "wilaya_code": "03",
         "wilaya_name_ascii": "Laghouat",
         "wilaya_name": "الأغواط",
-        "osm_id": -1
+        "osm_id": 6546022
     },
     {
         "id": 76,
@@ -767,7 +767,7 @@
         "wilaya_code": "03",
         "wilaya_name_ascii": "Laghouat",
         "wilaya_name": "الأغواط",
-        "osm_id": -1
+        "osm_id": 6546023
     },
     {
         "id": 65,
@@ -778,18 +778,18 @@
         "wilaya_code": "03",
         "wilaya_name_ascii": "Laghouat",
         "wilaya_name": "الأغواط",
-        "osm_id": -1
+        "osm_id": 6546012
     },
     {
         "id": 72,
-        "commune_name_ascii": "El Haouaita",
+        "commune_name_ascii": "El Houaita",
         "commune_name": "الحويطة",
         "daira_name_ascii": "Ain Madhi",
         "daira_name": "عين ماضي",
         "wilaya_code": "03",
         "wilaya_name_ascii": "Laghouat",
         "wilaya_name": "الأغواط",
-        "osm_id": -1
+        "osm_id": 6546019
     },
     {
         "id": 77,
@@ -800,7 +800,7 @@
         "wilaya_code": "03",
         "wilaya_name_ascii": "Laghouat",
         "wilaya_name": "الأغواط",
-        "osm_id": -1
+        "osm_id": 6546024
     },
     {
         "id": 68,
@@ -811,7 +811,7 @@
         "wilaya_code": "03",
         "wilaya_name_ascii": "Laghouat",
         "wilaya_name": "الأغواط",
-        "osm_id": -1
+        "osm_id": 6546015
     },
     {
         "id": 64,
@@ -822,7 +822,7 @@
         "wilaya_code": "03",
         "wilaya_name_ascii": "Laghouat",
         "wilaya_name": "الأغواط",
-        "osm_id": -1
+        "osm_id": 6810447
     },
     {
         "id": 104,
